@@ -1,0 +1,106 @@
+table{
+	color: #1E90FF
+	font-size:59px;
+	background-color:	#FFF5EE;
+}
+h1{
+	color:black;
+}
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#4169E1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:bold;
+}
+
+li a:hover:not(.active) {
+  background-color: #00FFFF;
+}
+
+.active {
+  background-color: #8FBC8F;
+}
+td{
+	font-size: 20px;
+	font-style:all;
+	color:green;	
+}
+.deepak{
+	background-color:#4169E1;
+  padding:10px;
+}
+p{
+	font-size: 10px;
+}
+li input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+li button[type=submit] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+th{
+  color:white;
+
+}
+
+
+.bag1:hover{
+  transform:scale(1.2);
+
+}
+.bag2:hover{
+  transform:scale(1.2);
+}
+.bag3:hover{
+  transform:scale(1.2);
+}
+.bag4:hover{
+  transform:scale(1.2);
+}
+.e1:hover{
+  transform:scale(1.2);
+}
+.e2:hover{
+  transform:scale(1.2);
+}
+.e3:hover{
+  transform:scale(1.2);
+}
+.e4:hover{
+  transform:scale(1.2);
+}
+.phone1:hover{
+  transform:scale(1.2);
+}
+.phone2:hover{
+  transform:scale(1.2);
+}
+.phone3:hover{
+  transform:scale(1.2);
+}
+.phone4:hover{
+  transform:scale(1.2);
+}
